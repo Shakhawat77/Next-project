@@ -1,0 +1,44 @@
+{
+  "name": "care_booking",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "mongodb": "^7.0.0",
+    "next": "16.1.1",
+    "next-auth": "^4.24.13",
+=======
+    "firebase": "^12.7.0",
+    "lucide-react": "^0.562.0",
+    "mongodb": "^7.0.0",
+    "next": "16.1.0",
+>>>>>>> 160e156f5272b2116a8c4a1b84dc3df87ed83e53
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+<<<<<<< HEAD
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.23",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5"
+=======
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.0",
+    "tailwindcss": "^4"
+>>>>>>> 160e156f5272b2116a8c4a1b84dc3df87ed83e53
+  }
+}
